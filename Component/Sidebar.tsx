@@ -36,14 +36,14 @@ const Sidebar = () => {
       </a>
       {/* socile icon */}
       <div className="flex justify-around w-9/12 mx-auto my-5 text-green-500 md:w-full">
-        <a href="https://github.com/MinhajSadik">
-          <AiFillGithub className="w-8 h-8" />
+        <a href="https://github.com/MinhajSadik" className="w-8 h-8">
+          <AiFillGithub />
         </a>
-        <a href="https://Linkedin.com/in/MinhajSadik">
-          <AiFillLinkedin className="w-8 h-8" />
+        <a href="https://Linkedin.com/in/MinhajSadik" className="w-8 h-8">
+          <AiFillLinkedin />
         </a>
-        <a href="https://medium.com/@MinhajSadik">
-          <AiFillMediumCircle className="w-8 h-8" />
+        <a href="https://medium.com/@MinhajSadik" className="w-8 h-8">
+          <AiFillMediumCircle />
         </a>
       </div>
       {/* address */}
